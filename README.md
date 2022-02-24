@@ -1,0 +1,2 @@
+# ShoesPDA2
+VS2008 WinCE 6.0 PDA程序
